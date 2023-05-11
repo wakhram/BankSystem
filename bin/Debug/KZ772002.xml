@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <operation name="TopUpMoney">
+    <balanceBefore>1000</balanceBefore>
+    <count>100</count>
+    <balanceAfter>1100</balanceAfter>
+  </operation>
+  <operation name="InterestRate">
+    <InterestRate>10</InterestRate>
+    <InterestDate>01:04:2023 02:32:44</InterestDate>
+    <Period>1</Period>
+    <PeriodType>minutes</PeriodType>
+  </operation>
+  <operation name="InterestRate">
+    <InterestRate>10</InterestRate>
+    <InterestDate>01:04:2023 02:34:46</InterestDate>
+    <Pay>110</Pay>
+    <Period>1</Period>
+    <PeriodType>minutes</PeriodType>
+    <Balance>1210</Balance>
+  </operation>
+  <operation name="TransferMoney">
+    <balanceBefore>1210</balanceBefore>
+    <count>210</count>
+    <balanceAfter>1000</balanceAfter>
+    <transferAtTo>KZ018007</transferAtTo>
+  </operation>
+  <operation name="TopUpMoney">
+    <balanceBefore>1000</balanceBefore>
+    <count>500</count>
+    <balanceAfter>1500</balanceAfter>
+  </operation>
+  <operation name="InterestRate">
+    <InterestRate>15</InterestRate>
+    <InterestDate>03:04:2023 16:05:06</InterestDate>
+    <Period></Period>
+    <PeriodType></PeriodType>
+  </operation>
+  <operation name="InterestRate">
+    <InterestRate>10</InterestRate>
+    <InterestDate>03:04:2023 16:05:40</InterestDate>
+    <Period>1</Period>
+    <PeriodType>minutes</PeriodType>
+  </operation>
+  <operation name="InterestRate">
+    <InterestRate>10</InterestRate>
+    <InterestDate>03:04:2023 16:06:55</InterestDate>
+    <Pay>150</Pay>
+    <Period>1</Period>
+    <PeriodType>minutes</PeriodType>
+    <Balance>1650</Balance>
+  </operation>
+  <LastOperation>RIP 16:11:58 03:04:2023</LastOperation>
+</datas>

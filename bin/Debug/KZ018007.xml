@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <operation name="InterestRate">
+    <InterestRate>0</InterestRate>
+    <InterestDate>03:04:2023 16:14:55</InterestDate>
+    <Period>15</Period>
+    <PeriodType>minutes</PeriodType>
+  </operation>
+</datas>

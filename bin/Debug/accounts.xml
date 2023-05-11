@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<datas>
+  <Account name="KZ018007">
+    <balance>1710</balance>
+    <createTime>14:34:28 02:04:2023</createTime>
+    <editTime></editTime>
+    <InterestRate>0</InterestRate>
+    <InterestDate>03:04:2023 16:14:55</InterestDate>
+    <Period>15</Period>
+    <PeriodType>minutes</PeriodType>
+  </Account>
+  <Account name="KZ007700">
+    <balance>1500</balance>
+    <createTime>16:16:09 03:04:2023</createTime>
+    <editTime></editTime>
+    <InterestRate></InterestRate>
+    <InterestDate></InterestDate>
+    <Period></Period>
+    <PeriodType></PeriodType>
+  </Account>
+</datas>
